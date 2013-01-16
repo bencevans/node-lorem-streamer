@@ -1,0 +1,13 @@
+{
+  "name": "lorem-streamer",
+  "version": "0.0.1",
+  "description": "Lorem Ipsum generating Stream",
+  "keywords": [],
+  "author": "Ben Evans <ben@bensbit.co.uk>",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
