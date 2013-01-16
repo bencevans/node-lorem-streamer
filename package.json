@@ -2,9 +2,17 @@
   "name": "lorem-streamer",
   "version": "0.0.1",
   "description": "Lorem Ipsum generating Stream",
-  "keywords": [],
+  "keywords": [
+    "lorem",
+    "ipsum",
+    "random",
+    "stream"
+  ],
   "author": "Ben Evans <ben@bensbit.co.uk>",
-  "dependencies": {},
+  "repository": "https://github.com/bencevans/node-lorem-streamer.git",
+  "dependencies": {
+    "lorem-ipsum": "~0.1.0"
+  },
   "devDependencies": {
     "mocha": "*",
     "should": "*"
